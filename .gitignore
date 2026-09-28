@@ -1,0 +1,9 @@
+node_modules
+.vercel
+dist
+.output
+.grok
+artifacts
+screenshots
+*.log
+.DS_Store
